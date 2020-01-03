@@ -1,1 +1,1 @@
-Whatsapp bot created by java and selenium
+Whatsapp bot (java and selenium) using firefox
